@@ -66,10 +66,12 @@ const config = {
         },
         items: [
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/aasehaa/docusaurus_octopus',
             label: 'GitHub',
             position: 'right',
           },
+          { to: 'docs/home', label: 'Docs', position: 'left' },
+          { to: 'blog', label: 'Blog', position: 'left' },
         ],
       },
       footer: {
