@@ -43,8 +43,6 @@ For a visual reference to the same process, please see [Nemgrea’s video guide]
 
 ---
 
-
-
 # 🌐 Other Resources
 
 

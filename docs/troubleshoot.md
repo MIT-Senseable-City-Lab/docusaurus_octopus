@@ -9,12 +9,8 @@ sidebar_position: 4
 _Possible challenges with the Octopus_
 
 
----
-
-The Octopus Platform is an open sourced low-cost environmental sensing tool made for makers to develop and adapt urban environmental sensing projects.
 
 :::info
-
 
 This document will be extended based on challenges and issues encountered by the Octopus community 
 
